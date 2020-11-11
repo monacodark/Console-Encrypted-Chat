@@ -1,15 +1,14 @@
-# ᛞ CONSOLE-CHAT ᛞ
-Консольный чат с шифрованием. Разрабатывался на node v12.16.1
+# Console-Encrypted-Chat
 
-## Как запустить
-1. git clone https://github.com/ivanovroma/console-chat.git
+## Get Started
+1. git clone https://github.com/monacodark/Console-Encrypted-Chat.git
 
-### Запускаем сервер
+### Run server
 1. cd server
-2. npm i
-3. npm run start
+2. yarn install
+3. yarn start
 
-### Запускаем клиент
+### Run clients
 1. cd client
-2. npm i
-3. npm run start
+2. yarn instal
+3. yarn start
